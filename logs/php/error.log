@@ -1,0 +1,9 @@
+[02-Nov-2020 22:11:28 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in C:\Users\ton97479\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 8
+[03-Nov-2020 22:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function this_post() in C:\Users\ton97479\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php:21
+Stack trace:
+#0 C:\Users\ton97479\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\ton97479\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\ton974...')
+#2 C:\Users\ton97479\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\ton974...')
+#3 {main}
+  thrown in C:\Users\ton97479\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 21
+[03-Nov-2020 22:47:53 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\Users\ton97479\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 27
